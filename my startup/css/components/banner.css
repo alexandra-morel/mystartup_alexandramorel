@@ -1,0 +1,19 @@
+.banner {
+background-image: linear-gradient(100deg, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.35) 50%), url("https://th.bing.com/th/id/R.7d5b5e5cd55b25e8c62f26d55c299007?rik=LBpCUVZ88Y4WXA&pid=ImgRaw&r=0");
+color: whitesmoke;
+padding: 150px 0px;
+background-size: cover;
+background-position: center;
+}
+.banner h1 {
+font-size: 40px;
+font-weight: bolder;
+color: #03A9F4;
+}
+.banner h2 {
+font-size: 25px;
+font-weight: bold;
+opacity: 5;
+margin-bottom: 30px;
+
+}
